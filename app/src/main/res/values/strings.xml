@@ -21,9 +21,9 @@
 
 
     <string name="activity_shop_Txt_Titre1">le magasin 1</string>
-    <string name="activity_shop_Txt_Detail1">5 rue de la chouette 4000 Liege +32 2 226 83 61</string>
+    <string name="activity_shop_Txt_Detail1">5 rue de la chouette\n 4000 Liege \n+32 2 226 83 61</string>
     <string name="activity_shop_Txt_Titre2">le magasin 2</string>
-    <string name="activity_shop_Txt_Detail2">53 rue des songes 4000 Liege +32 2 481 51 62</string>
+    <string name="activity_shop_Txt_Detail2">53 rue des songes\n 4000 Liege\n +32 2 481 51 62</string>
 
 
     <string name="activity_shopping_Txt1">Mes achats</string>
