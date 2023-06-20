@@ -11,11 +11,11 @@
 
     <string name="activity_about_Text1">A propos de</string>
     <string name="activity_about_Text2">Nous contacter</string>
-    <string name="activity_about_Text3">Cette application vous permet de gérer, consulter l'historique de vos achats ainsi que l'ensemble de nos boutiques disponibles.</string>
+    <string name="activity_about_Text3">Cette application vous permet de gérer, consulter l\'historique de vos achats ainsi que l\'ensemble de nos boutiques disponibles.</string>
 
 
     <string name="activity_main_Btn1">Gérer vos achats</string>
-    <string name="activity_main_Btn2">Voir l&apos;historique</string>
+    <string name="activity_main_Btn2">Voir l\'historique</string>
     <string name="activity_main_Btn3">Nos boutiques</string>
     <string name="activity_main_Btn4">A propos de</string>
 
@@ -29,6 +29,6 @@
     <string name="activity_shopping_Txt1">Mes achats</string>
     <string name="activity_shopping_BtnValider">Valider</string>
 
-    <string name="activity_shopping_log_Txt1">Mes historiques d'achat</string>
+    <string name="activity_shopping_log_Txt1">Mes historiques d\'achat</string>
 
 </resources>
